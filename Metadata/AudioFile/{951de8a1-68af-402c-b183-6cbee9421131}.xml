@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{951de8a1-68af-402c-b183-6cbee9421131}">
 		<property name="assetPath">
-			<value>atomized.wav</value>
+			<value>Example Files/atomized.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{111c7aa1-1e76-48e3-bac2-997e349e7bc3}">
 		<property name="assetPath">
-			<value>fade out.wav</value>
+			<value>Example Files/fade out.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

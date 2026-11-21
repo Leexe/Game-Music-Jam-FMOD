@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{83bbe08d-8fcd-48f6-b2e0-1e317b575fc5}">
 		<property name="assetPath">
-			<value>stability warning.wav</value>
+			<value>Example Files/stability warning.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

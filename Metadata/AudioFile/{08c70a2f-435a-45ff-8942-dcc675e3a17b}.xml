@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{08c70a2f-435a-45ff-8942-dcc675e3a17b}">
 		<property name="assetPath">
-			<value>Warp Drive (Final).wav</value>
+			<value>Example Files/Warp Drive (Final).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

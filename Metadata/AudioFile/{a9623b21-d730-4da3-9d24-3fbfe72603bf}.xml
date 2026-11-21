@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a9623b21-d730-4da3-9d24-3fbfe72603bf}">
 		<property name="assetPath">
-			<value>warpdrive full.wav</value>
+			<value>Example Files/warpdrive full.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
