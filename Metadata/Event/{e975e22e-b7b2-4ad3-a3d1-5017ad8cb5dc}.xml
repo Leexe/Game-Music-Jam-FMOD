@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.03.00">
+<objects serializationModel="Studio.02.04.00">
 	<object class="Event" id="{e975e22e-b7b2-4ad3-a3d1-5017ad8cb5dc}">
 		<property name="name">
 			<value>Stability Charge</value>

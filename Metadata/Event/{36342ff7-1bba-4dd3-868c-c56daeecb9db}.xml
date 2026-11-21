@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.03.00">
+<objects serializationModel="Studio.02.04.00">
 	<object class="Event" id="{36342ff7-1bba-4dd3-868c-c56daeecb9db}">
 		<property name="name">
 			<value>Fade Out</value>
