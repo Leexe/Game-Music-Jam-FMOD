@@ -5,7 +5,7 @@
 			<value>AMB</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c86ea715-a16c-4d3e-a48d-bf657233787d}</destination>
+			<destination>{37339440-2b98-4898-9046-fb91fcef7e9c}</destination>
 		</relationship>
 	</object>
 </objects>
