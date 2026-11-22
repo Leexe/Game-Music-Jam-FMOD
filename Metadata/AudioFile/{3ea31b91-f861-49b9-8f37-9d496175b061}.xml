@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.04.00">
-	<object class="AudioFile" id="{7b91e285-1764-40e0-93e3-e8c761916f50}">
+	<object class="AudioFile" id="{3ea31b91-f861-49b9-8f37-9d496175b061}">
 		<property name="assetPath">
-			<value>NM1_A.wav</value>
+			<value>01. VVS ON MY 3DS.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.100000000000001</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>100.02679166666667</value>
+			<value>200.22857142857143</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8b5cdd13-c1c9-488b-b4f2-2ec03f8a30fd}</destination>
