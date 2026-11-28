@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.04.00">
 	<object class="AudioFile" id="{00cdbacc-9d7c-49da-8674-2d6c09f37b29}">
 		<property name="assetPath">
-			<value>333AMETHYST - Fragment (game jam).wav</value>
+			<value>BGM/333AMETHYST - Fragment (game jam).wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
